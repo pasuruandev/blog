@@ -1,28 +1,28 @@
 ---
 title: "About"
 layout: "about"
-image: "images/about.jpg"
+image: "https://raw.githubusercontent.com/pasuruandev/blog-pasuruandev/main/static/assets/46735304_2044425718976192_3169266913045269866_n.jpg"
 draft: false
 
 #caption
 caption:
   enable: true
-  title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
+  title: "Komunitas Pasuruan Developer"
 
 # social
 social:
   enable: true
   social_links:
-  - link: "https://www.facebook.com/"
+  - link: "https://www.facebook.com/pasuruandev"
     icon: "lab la-facebook-f"
 
-  - link: "https://www.twitter.com/"
+  - link: "https://www.twitter.com/pasuruandev"
     icon: "lab la-twitter"
     
   - link: "https://www.linkedin.com/"
     icon: "lab la-linkedin-in"
     
-  - link: "https://www.github.com/"
+  - link: "https://www.github.com/pasuruandev"
     icon: "lab la-github"
 
 # what_i_do
@@ -30,19 +30,17 @@ what_i_do:
   title: "What I Do"
   enable: true
   item:
-  - title: "Content Writing"
+  - title: "Learn"
     icon: "las la-pen-nib"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+    description: "Belajar mengenai hal hal tentang teknologi terkini"
     
-  - title: "Photography"
-    icon: "las la-camera"
-    description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
+  - title: "Code"
+    icon: "las la-code"
+    description: "Mengimplementasikan hasil belajar hingga menjadi suatu product yang bermanfaat"
     
-  - title: "Web Research"
-    icon: "lar la-snowflake"
-    description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
+  - title: "Share"
+    icon: "las la-bullhorn"
+    description: "Tak lupa juga untuk berbagi kepada yang lain yang ingin belajar"
  
 ---
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+Kami adalah komunitas para pegiat IT di Pasuruan. Kami terdiri dari para pengembang perangkat lunak, praktisi IT, dan pembelajar dalam hal IT yang memiliki passion untuk saling belajar, berkontribusi, dan berbagi, yang menjadi tujuan utama berdirinya komunitas ini.

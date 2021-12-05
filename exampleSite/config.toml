@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/bookworm-light/"
+baseURL = "https://demo.gethugothemes.com/"
 title = "Bookworm - Personal Blog Template"
 theme = "bookworm-light"
 # post pagination
@@ -105,8 +105,8 @@ enable = true
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
-title = "Subscribe for our monthly newsletter."
-input_placeholder = "Enter your email"
+title = "Berlangganan buletin bulanan kami."
+input_placeholder = "Masukan email kalian"
 
 # cookies
 [params.cookies]
@@ -116,27 +116,22 @@ expire_days = 2
 
 ############################# Main Menu ########################
 [[menu.main]]
-name = "Home"
+name = "Beranda"
 url = "/"
 weight = 1
   
 [[menu.main]]
-name = "About"
+name = "Tentang"
 url = "about/"
 weight = 3
   
 [[menu.main]]
-name = "Contact"
+name = "Kontak"
 url = "contact/"
 weight = 4
-  
-[[menu.main]]
-name = "Buy Premium"
-url = "https://gethugothemes.com/products/bookworm/"
-weight = 5
 
 [[menu.main]]
-weight = 6
+weight = 5
 url = "#"
 name = "Pages"
 hasChildren = true
@@ -179,7 +174,7 @@ hasChildren = true
 
 ############################# Footer Menu ########################
 [[menu.footer]]
-name = "About"
+name = "Tentang"
 url = "about/"
 weight = 1
 
@@ -189,12 +184,12 @@ url = "author/"
 weight = 2
 
 [[menu.footer]]
-name = "Privacy"
+name = "Privasi"
 url = "privacy/"
 weight = 3
 
 [[menu.footer]]
-name = "Terms & Conditions"
+name = "Syarat & Ketentuan"
 url = "terms-conditions/"
 weight = 4
 
