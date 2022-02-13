@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/"
 title = "Bookworm - Personal Blog Template"
-theme = ""
+theme = "bookworm-light"
 # post pagination
 paginate = "5"
 # post excerpt
